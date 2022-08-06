@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="08">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-3.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-6.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-5.zip!/" />
+      <root url="jar://$PROJECT_DIR$/src/web/app/uploads/2022/08/Archive-4.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
