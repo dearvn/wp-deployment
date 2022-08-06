@@ -1,3 +1,4 @@
+Clone from https://github.com/tareq1988/wp-docker
 # Overview
 A simple *opinionated* PHP 7.4 Docker & Compose Environment for WordPress using Nginx, PHP-FPM, Redis, PHPMyAdmin, Composer, WP CLI and [Bedrock](https://github.com/roots/bedrock).
 
