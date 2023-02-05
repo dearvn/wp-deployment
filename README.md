@@ -43,7 +43,7 @@ All requisites should be available for your distribution. The most important are
 Clone this repository in your preferred location.
 
 ```sh
-git clone https://github.com/tareq1988/wp-docker.git wordpress
+git clone https://github.com/dearvn/wp-deployment.git wordpress
 cd wordpress
 ```
 
